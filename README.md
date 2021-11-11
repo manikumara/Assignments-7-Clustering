@@ -1,6 +1,6 @@
 # Assignments-7-Clustering
 
-Perform clustering (hierarchical,K means clustering and DBSCAN) for the airlines data to obtain optimum number of clusters. 
+Q1) Perform clustering (hierarchical,K means clustering and DBSCAN) for the airlines data to obtain optimum number of clusters. 
 Draw the inferences from the clusters obtained.
 
 ## Data Description:
@@ -41,5 +41,16 @@ Days_since_enrolled--Number of days since enrolled in flier program
 
 Award--whether that person had award flight (free flight) or not
 
+------------------------------------------------------------------------------------------------------------
+Q2) Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identify the number of clusters formed and draw inferences.
+
+## Data Description:
+Murder -- Muder rates in different places of United States
+
+Assualt- Assualt rate in different places of United States
+
+UrbanPop - urban population in different places of United States
+
+Rape - Rape rate in different places of United States
 
  
